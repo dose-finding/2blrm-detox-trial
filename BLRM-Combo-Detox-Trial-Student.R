@@ -191,7 +191,6 @@ all.b<-all.s<-all.m<-mat.or.vec(nsims,npatients)
 
 counter<-counter.futility<-0
 
-  set.seed(100)
   for (z in 1:nsims){
     stop<-stop.safety<-stop.futility<-0
     
