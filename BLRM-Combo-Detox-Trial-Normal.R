@@ -106,7 +106,7 @@ max.baclofen.futility<-90
 A01.true<-c(-4.20)
 A02.true<-c(-5.45)
 A11.true<-c(0.90)
-A12.true<-c(-0.05)
+A12.true<-c(0.05)
 E.true<-c(0.85)
 
 ##### Low Toxicity 1 Scenario
