@@ -102,63 +102,12 @@ max.baclofen.futility<-90
 
 # Choose scenario
 
-##### Prior Belief Scenario
+##### Safe Scenario
 A01.true<-c(-4.20)
 A02.true<-c(-5.45)
 A11.true<-c(0.90)
 A12.true<-c(0.05)
 E.true<-c(0.85)
-
-##### Low Toxicity 1 Scenario
-# A01.true<-c(-4.20)
-# A02.true<-c(-5.3)
-# A11.true<-c(1.00)
-# A12.true<-c(0.20)
-# E.true<-c(1.00)
-
-##### Low Toxicity 2 Toxicity Scenario
-# A01.true<-c(-3.4)
-# A02.true<-c(-5.6)
-# A11.true<-c(0.50)
-# A12.true<-c(0.50)
-# E.true<-c(1.00)
-
-##### Medium Toxicity 1 Toxicity Scenario
-# A01.true<-c(-2.5)
-# A02.true<-c(-3.6)
-# A11.true<-c(1.5)
-# A12.true<-c(1.0)
-# E.true<-c(0.40)
-
-##### Medium Toxicity 2 Toxicity Scenario
-# A01.true<-c(-2.5)
-# A02.true<-c(-2.0)
-# A11.true<-c(2.5)
-# A12.true<-c(1.5)
-# E.true<-c(0.10)
-
-##### High Toxicity 1 Toxicity Scenario   
-# A01.true<-c(-2.5)
-# A02.true<-c(-2.5)
-# A11.true<-c(1)
-# A12.true<-c(0.2)
-# E.true<-c(0.5)
-
-##### High Toxicity 2 Toxicity Scenario
-# A01.true<-c(-2.0)
-# A02.true<-c(-2.0)
-# A11.true<-c(1.0)
-# A12.true<-c(1.5)
-# E.true<-c(0.40)
-
-
-# ##### Unsafe Toxic Scenario
-# A01.true<-c(-1.35)
-# A02.true<-c(-1.35)
-# A11.true<-c(0.90)
-# A12.true<-c(0.0)
-# E.true<-c(0.85)
-
 
 #######     Specifying Prior Distribution
 
